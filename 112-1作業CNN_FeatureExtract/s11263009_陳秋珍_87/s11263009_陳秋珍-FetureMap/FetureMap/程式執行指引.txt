@@ -1,0 +1,15 @@
+step by step
+1.open Anaconda Prompt to create New Environment
+  #conda create -n AI python=3.11.5
+
+2.open file using open Anaconda Prompt
+  # C:\Users\clari>cd Downloads\FetureMap
+
+3.Installing Data Science Related Packages to the New Environment in Anaconda Prompt
+  # conda install -c conda-forge opencv
+  # conda install matplotlib
+  # conda install numpy
+
+3. open visual code using Anaconda Prompt
+  #(AI) C:\Users\clari\Downloads\FetureMap>code
+
