@@ -14,13 +14,14 @@
 #### 💻 3.演算法與系統實作
 
 - 熟悉 Python 及主流 AI 工具（TensorFlow、PyTorch、scikit-learn）
-- 掌握開發環境（Conda、VSCode、A-100）與各類模型（YOLO、U-Net）
+- 掌握開發環境（Google Colaboratory、VSCode、A-100、AnaConda）與各類模型（YOLO、U-Net）
 - 能設計、訓練與評估 AI 模型
 
 #### 🌐 4.應用與跨域整合
 
 - 理解 AI 在醫療、金融、製造、教育等領域的應用
 - 能評估技術可行性與效益
+- **觀察, 冥想, 發想, 創新;不是(也不要)只守著老師教的, 也要自己去找資料, 自己去思考, 自己去發想, 自己去創新**
 
 #### 📝 5.批判思維與研究能力
 
