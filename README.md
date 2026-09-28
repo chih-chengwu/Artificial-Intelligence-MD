@@ -35,7 +35,7 @@
 ## 模組 1: AI 清楚的概念釐清-人工智慧、機器學習、深度學習 (第 1 章)
 
 1. CH-01 人工智慧、機器學習、深度學習介紹 [Chatper-01](副本-資料夾/CH01-人工智慧、機器學習、深度學習介紹.pdf) , [Chat-01 Supplementary Material](1.人工智慧概論.pptx)人工智慧的應用 [Link-應用](2.人工智慧應用.pptx), [AI_ML_DL三者內容及關係](AI_ML_DL三者內容及關係.md)
-2. [影像辨識_4大功能說明](影像辨識_4大功能\影像辨識_4大功能Image_Recognition_Computer_Vision_Tasks.md)
+2. [影像辨識_4大功能說明](影像辨識_4大功能/影像辨識_4大功能Image_Recognition_Computer_Vision_Tasks.md)
 3. 分群 & 分類
 
 > a. 分群以 K-Mean 為例
