@@ -125,6 +125,8 @@ B. 瞭解 Tensor 張量是什麼? Why? https://reurl.cc/vKnKoj
 3. [ConfusionMatrix_PRcurve](EvaluationModelTools/2.ConfusionMatrix_PRcurve.ppt)
 4. [3.Confidence-And-Decision_Threshold-Relation](EvaluationModelTools/3.Confidence-And-Decision_Threshold-Relation.ppt)
 
+註: 在資料夾 (與GPT非常有用對話的說明) 下有許多需知道/閱讀的pdf及md
+
 ---
 
 ## 讀期刊 7:Paper Study & 報告
