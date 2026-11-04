@@ -66,6 +66,7 @@
 **PART I. CH02-深度學習的原理介紹**
 
 1.**課本 PPT : CH02-深度學習的原理介紹 [CH02-深度學習的原理介紹](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/CH02-深度學習的原理介紹.pdf) **
+補充: 請 GPT說明梯度下降法  [請 GPT說明梯度下降法](https://chatgpt.com/share/6aeb32ce-5fb4-83ee-b913-8d5fa1ecd597)
 
 2.老師濃縮整理教材內容 [深度學習-濃縮整理教材內容](深度學習-濃縮整理教材內容.ppt)
 
@@ -106,8 +107,7 @@ B. 瞭解 Tensor 張量是什麼? Why? https://reurl.cc/vKnKoj
 12. 第十五章: 建立 Mnist CNN 模型使用 GPU 進行訓練   [CH15-建立MnistCNN模型使用GPU進行訓練](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/CH15-建立MnistCNN模型使用GPU進行訓練.pdf)
     [ch15-程式](副本-資料夾/P15-332-TF_Keras_Mnist_CNN.ipynb)
 13. 第十六章: 介紹 Colab 使用 GPU、TPU 進行訓練   [CH16使用GPU_TPU進行訓練](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/CH16使用GPU_TPU進行訓練.pdf)
-    [CH16-程式](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/P16-348-TF_check_accelerator.ipynb)         
-    [ch16-程式-2](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/P16-353-TF_Keras_Mnist_CNN_TPU.ipynb)
+    [CH16-程式](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/P16-348-TF_check_accelerator.ipynb)[ch16-程式-2](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/P16-353-TF_Keras_Mnist_CNN_TPU.ipynb)
 14. 註 1:課本其餘的章節 - 視情況提及/討論
     註 2:增加模型訓練後的評估指標
 
