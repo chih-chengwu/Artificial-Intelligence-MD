@@ -91,6 +91,7 @@ B. 瞭解 Tensor 張量是什麼? Why? https://reurl.cc/vKnKoj
 
 **PART II. CH03 玩 TensorFlow Playground 理解深度學習神經網路** [Link-3](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/CH03玩TensorFlowPlayground理解深度學習神經網.pdf)
 
+- [更正課本內容-判斷訓練是Appropriate_under_over_是在訓練時看訓練及驗證的數據(loss)_不是訓練-測試loss](副本-資料夾/類神經網路/林大貴_大神回歸課本內容/更正課本內容-判斷訓練是Appropriate_under_over_是在訓練時看訓練及驗證的數據(loss)_不是訓練-測試loss.pdf)
 - 作業: 卷積神經網路(CNN)提取特徵, 同學自選一個影像乘上 3 個 Filter, 分別提取(直線,橫線, 及斜線)特徵
   原理說明請參照下方的 : CH13-卷積神經網路(CNN)原理介紹.pd 的第 1~2 節
 - 第 17~18 週可報告的論文如左側-期末可以報告的 paper, 同學不可選同一篇, 報告 50 分鐘, 提問/回答 10 分鐘
